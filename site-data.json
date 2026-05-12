@@ -1,0 +1,23 @@
+{
+  "brand_tagline": "Cabinet de Kinetoterapie & Recuperare Medicală",
+  "city": "Cluj-Napoca",
+  "site_url": "https://popa-vlad-kineto.vercel.app/",
+  "existing_website": "",
+  "has_existing_website": "nu",
+  "phone_display": "0740 690 665",
+  "email": "contact@popavladkineto.ro",
+  "address": "Str. Grigore Alexandrescu 12, Cluj-Napoca",
+  "instagram_url": "#",
+  "facebook_url": "https://www.facebook.com/PopaVladKineto/",
+  "linkedin_url": "#",
+  "copyright_year": "2026",
+  "team_intro": "Cabinet condus de Vlad Popa, kinetoterapeut cu experiență în recuperare medicală, fizioterapie și masaj terapeutic. Planuri de tratament personalizate pentru fiecare pacient.",
+  "schedule_html": "<dl>\n              <dt>Luni – Vineri</dt><dd>9:00 – 18:00</dd>\n              <dt>Sâmbătă</dt><dd>Doar cu programare</dd>\n              <dt>Duminică</dt><dd>Închis</dd>\n            </dl>",
+  "brand_name": "Popa Vlad Kinetoterapie",
+  "logo_path": "img/brand-logo.png",
+  "preview_image_path": "img/brand-preview.png",
+  "phone_link": "0740690665",
+  "whatsapp_number": "0740690665",
+  "map_embed_url": "https://www.google.com/maps?q=Str.%20Grigore%20Alexandrescu%2012%2C%20Cluj-Napoca&output=embed",
+  "og_image_url": "https://popa-vlad-kineto.vercel.app/img/brand-preview.png"
+}
